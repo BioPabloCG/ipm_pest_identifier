@@ -1,6 +1,8 @@
 # ipm_pest_identifier
 An automated ETL pipeline and Streamlit web application that digitizes 44 official Integrated Pest Management (IPM) guides from the Spanish Ministry of Agriculture, helping farmers identify crop diseases.
 
+## Crops and areas in the data base
+Alfalfa, Apricot, Artichoke, Asparagus, Avocado, Banana, Beets, Bitter vetch, Borage, Broccoli, Brussels sprouts, Cabbage, Carob, Cauliflower, Cherimoya, Cherry, Chestnut, Chickpea, Chinese cabbage, Citrus, Collard greens, Conifers, Cotton, Cucumber, Eggplant, Escarole, Eucalyptus, Fava bean, Fenugreek, Flat peach, Flatpod peavine, Garlic, Grass pea, Grasslands, Green bean, Hardwoods, Hazelnut, Hops, Kiwifruit, Kohlrabi, Leek, Lentil, Lettuce, Lupin, Maize, Mango, Melon, Mushrooms and Fungi, Narbon vetch, Nectarine, Oaks, Olive, Onion, Parks and Gardens, Pea, Peach, Pepper, Persimmon, Pistachio, Plum, Pome fruits, Potato, Pumpkin, Romanesco, Service networks and Industrial areas, Soybean, Spinach, Strawberry, Sunflower, Swiss chard, Table grapes, Thistle, Tobacco, Tomato, Turnip greens, Vetch, Walnut, Watermelon, Wine grapes, Winter cereals and Zucchini
 
 ## References
 - [1] Ministerio de Agricultura, Alimentación y Medio Ambiente. (2021). Guía de gestión integrada de plagas. Aguacate. Gobierno de España.
