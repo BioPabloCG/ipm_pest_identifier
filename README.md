@@ -1,10 +1,22 @@
 # ipm_pest_identifier
 An automated ETL pipeline and Streamlit web application that digitizes 44 official Integrated Pest Management (IPM) guides from the Spanish Ministry of Agriculture, helping farmers identify crop diseases.
 
+## Methodology
+For the development of this database geared towards Integrated Pest Management (IPM), a structured categorisation based on the trophic guild and the type of damage that the phytophagous arthropod causes to the plant has been used. Under this methodological criterion, the species recorded in the Ministry's guides have been parameterised into standardised agronomic categories (e.g., piercing-sucking, chewing/defoliating, mining, and boring).
+
+This decision responds to two main reasons:
+- Logical Filtering: Dissociating the type of damage from the affected organ and symptoms allows filtering queries to be executed highly efficiently by exclusion.
+- Scientific Rigour: Grouping agricultural pests according to their mouthparts and feeding ecology is the standard morphological and functional classification system in plant health literature (Carrero & Planes, 2008; Gabriel-Ortega & Manobanda-Guamán, 2021). Furthermore, understanding these types of damage is the basis for determining the monitoring methods and intervention thresholds (García Marí & Ferragut Pérez, 2002) that form the core of this tool.
+
 ## Crops and areas in the data base
 Alfalfa (Alfalfa), Apricot (Albaricoque), Artichoke (alcachofa), Asparagus (Espárrago), Avocado (Aguacate), Banana (Platanera), Beets (Remolacha), Bitter vetch (Yero), Borage (Borraja), Broccoli (Brécol), Brussels sprouts (Col de Bruselas), Cabbage (Repollo), Carob (Algarrobo), Cauliflower (Coliflor), Cherimoya (Chirimoya), Cherry (Cereza), Chestnut (Castaño), Chickpea (Garbanzo), Chinese cabbage (Col China), Citrus (Cítricos), Collard greens (Berza), Conifers (Coníferas), Cotton (Algodón), Cucumber (Pepino), Eggplant (Berenjena), Escarole (Escarola), Eucalyptus (Eucaliptos), Fava bean (Haba), Fenugreek (Alholva), Flat peach (Paraguayo), Flatpod peavine (Titarro), Garlic (Ajo), Grass pea (Almorta), Grasslands (Pastos), Green bean (Judía) , Hardwoods (Frondosas), Hazelnut (Avellano), Hops (Lúpulo), Kiwifruit (Kiwi), Kohlrabi (Colirábano), Leek (Puerro), Lentil (Lenteja), Lettuce (Lechuga), Lupin (Altramuz), Maize (Maiz), Mango (Mango), Melon (Melón), Mushrooms and Fungi (Champiñones y Setas), Narbon vetch (Alverjón), Nectarine (Nectarina), Oaks (Quercus), Olive (Olivar), Onion (Cebolla) , Parks and Gardens (Parques y Jardines), Pea (Guisante), Peach (Melocotón), Pepper (Pimiento), Persimmon (Caqui), Pistachio (Pistacho), Plum (Ciruelo), Pome fruits (Frutales de pepita), Potato (Patata), Pumpkin (Calabaza), Romanesco (Romanesco), Service networks and Industrial areas (Redes de servicio y Zonas industriales), Soybean (Soja), Spinach (Espinaca), Strawberry (Fresa y Fresón), Sunflower (Girasol), Swiss chard (Acelga), Table grapes (Uva de mesa), Thistle (Cardo), Tobacco (Tabaco), Tomato (Tomate), Turnip greens (Grelo), Vetch (Veza), Walnut (Nogal), Watermelon (Sandía), Wine grapes (Uva de transformación), Winter cereals (Cereales de invierno) and Zucchini (Pepino)
 
-## References
+## Methodology references
+- Carrero, J. M., & Planes, S. (2008). Plagas del campo (13ª ed. rev. y ampl.). Ediciones Mundi-Prensa.
+- Gabriel-Ortega, J., & Manobanda-Guamán, M. (Eds.). (2021). Entomología aplicada para Agropecuarios. Grupo COMPAS, Universidad Estatal del Sur de Manabí.
+- García Marí, F., & Ferragut Pérez, F. (2002). Las plagas agrícolas. Ediciones Phytoma-España.
+
+## Database references
 - [1] Ministerio de Agricultura, Alimentación y Medio Ambiente. (2021). Guía de gestión integrada de plagas. Aguacate. Gobierno de España.
 - [2] Ministerio de Agricultura, Alimentación y Medio Ambiente. (2020). Guía de gestión integrada de plagas. Alcachofa y Cardo. Gobierno de España. 
 - [3] Ministerio de Agricultura, Alimentación y Medio Ambiente. (2020). Guía de gestión integrada de plagas. Alfalfa. Gobierno de España.
