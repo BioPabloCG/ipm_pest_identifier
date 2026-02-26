@@ -30,6 +30,26 @@ The database is divided in four `.csv` for cleaner data management:
 ## Crops and areas in the data base
 Alfalfa (Alfalfa), Apricot (Albaricoque), Artichoke (alcachofa), Asparagus (Espárrago), Avocado (Aguacate), Banana (Platanera), Beets (Remolacha), Bitter vetch (Yero), Borage (Borraja), Broccoli (Brécol), Brussels sprouts (Col de Bruselas), Cabbage (Repollo), Carob (Algarrobo), Cauliflower (Coliflor), Cherimoya (Chirimoya), Cherry (Cereza), Chestnut (Castaño), Chickpea (Garbanzo), Chinese cabbage (Col China), Citrus (Cítricos), Collard greens (Berza), Conifers (Coníferas), Cotton (Algodón), Cucumber (Pepino), Eggplant (Berenjena), Escarole (Escarola), Eucalyptus (Eucaliptos), Fava bean (Haba), Fenugreek (Alholva), Flat peach (Paraguayo), Flatpod peavine (Titarro), Garlic (Ajo), Grass pea (Almorta), Grasslands (Pastos), Green bean (Judía) , Hardwoods (Frondosas), Hazelnut (Avellano), Hops (Lúpulo), Kiwifruit (Kiwi), Kohlrabi (Colirábano), Leek (Puerro), Lentil (Lenteja), Lettuce (Lechuga), Lupin (Altramuz), Maize (Maiz), Mango (Mango), Melon (Melón), Mushrooms and Fungi (Champiñones y Setas), Narbon vetch (Alverjón), Nectarine (Nectarina), Oaks (Quercus), Olive (Olivar), Onion (Cebolla) , Parks and Gardens (Parques y Jardines), Pea (Guisante), Peach (Melocotón), Pepper (Pimiento), Persimmon (Caqui), Pistachio (Pistacho), Plum (Ciruelo), Pome fruits (Frutales de pepita), Potato (Patata), Pumpkin (Calabaza), Romanesco (Romanesco), Service networks and Industrial areas (Redes de servicio y Zonas industriales), Soybean (Soja), Spinach (Espinaca), Strawberry (Fresa y Fresón), Sunflower (Girasol), Swiss chard (Acelga), Table grapes (Uva de mesa), Thistle (Cardo), Tobacco (Tabaco), Tomato (Tomate), Turnip greens (Grelo), Vetch (Veza), Walnut (Nogal), Watermelon (Sandía), Wine grapes (Uva de transformación), Winter cereals (Cereales de invierno) and Zucchini (Pepino).
 
+## Quick Start & Installation
+To run this project locally on your machine, follow these simple steps:
+### 1. Prerequisites
+Ensure you have Python 3.8+ installed on your system.
+### 2. Clone the repository
+Open your terminal and clone this project:
+> git clone https://github.com/BioPabloCG/ipm_pest_identifier.git
+
+> cd ipm_pest_identifier
+### 3. Install dependencies
+This app requires streamlit and pandas. Install them using pip:
+> pip install streamlit pandas
+
+
+(Note: If you are using a virtual environment like Anaconda, ensure it is activated before installing).
+### 4. Run the application
+Launch the Streamlit server by running the following command in your terminal:
+> python -m streamlit run ipm_pest_identifier.py
+
+A new tab will automatically open in your default web browser hosting the local app
 ## References
 
 ### Methodology references
