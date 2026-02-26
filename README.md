@@ -36,18 +36,21 @@ To run this project locally on your machine, follow these simple steps:
 Ensure you have Python 3.8+ installed on your system.
 ### 2. Clone the repository
 Open your terminal and clone this project:
-> git clone https://github.com/BioPabloCG/ipm_pest_identifier.git
 
-> cd ipm_pest_identifier
+``` git clone https://github.com/BioPabloCG/ipm_pest_identifier.git```
+
+```cd ipm_pest_identifier```
 ### 3. Install dependencies
 This app requires streamlit and pandas. Install them using pip:
-> pip install streamlit pandas
+
+```pip install streamlit pandas```
 
 
 (Note: If you are using a virtual environment like Anaconda, ensure it is activated before installing).
 ### 4. Run the application
 Launch the Streamlit server by running the following command in your terminal:
-> python -m streamlit run ipm_pest_identifier.py
+
+```python -m streamlit run ipm_pest_identifier.py```
 
 A new tab will automatically open in your default web browser hosting the local app
 ## References
