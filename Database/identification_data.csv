@@ -1,5 +1,5 @@
 ﻿id;damage_organ;damage_visual;damage_cat;date
-001;Hojas (Envés);"Nidos sedosos circulares adosados a los nervios (especialmente al segundo seminervio izquierdo), decoloración y manchas necróticas; defoliación.";Picador-chupador;Mayo-Noviembre
+001;Hojas (Envés);Nidos sedosos circulares adosados a los nervios (especialmente al segundo seminervio izquierdo), decoloración y manchas necróticas, defoliación.;Picador-chupador;Mayo-Noviembre
 002;Hojas (Haz), desplazamiento a envés y/o fruto en ataque intenso;Decoloración marrón o un bronceado a lo largo del nervio central de la hoja, que progresa hacia las nervaduras laterales hasta afectar a la mayor parte de la superficie foliar, defoliación severa.;Picador-chupador;Junio-Diciembre
 003;Hojas (Envés);Debilitamiento de la planta, segrega melaza, de la cual se alimenta el hongo negrilla, que invade la superficie de la hoja, reduciendo la capacidad fotosintética y respiratoria de la planta, en ataques muy intensos las hojas caen prematuramente.  Prácticamente todos los laureles ornamentales tienen presencia de esta plaga. En cítricos los daños suelen ser poco importantes.;Picador-chupador;Marzo-Diciembre
 004;Hojas (Envés) , ramas;Su ataque puede provocar desde el debilitamiento de las plantas y el amarilleamiento del follaje, hasta incluso la muerte en plantas jóvenes, su ataque puede provocar desde el debilitamiento de las plantas y el amarilleamiento del follaje, hasta incluso la muerte en plantas jóvenes;Picador-chupador;Continua
@@ -34,3 +34,4 @@
 033;Hojas y frutos;Aparición de manchas necróticas circulares en las hojas que provocan una grave defoliación prematura del árbol, manchas en la piel del fruto, fuertemente asociada a la presencia de hojarasca sin descomponer en el suelo y a la coincidencia de altas humedades por lluvias o rocío;Enfermedad;Abril-Junio
 034;Raíces y base del tronco;Decaimiento general y progresivo de la copa del árbol que puede llegar a causarle la muerte, pudrición visible en el sistema radicular y en la zona del cuello o base del tronco, fuertemente asociado a parcelas con mal drenaje;Enfermedad;Continua
 035;Raíces y base del tronco;Marchitez de hojas, desecación y decaimiento general de la copa que puede causar la muerte del árbol, asociado a una podredumbre radicular visible al excavar la base, especialmente en suelos encharcados;Enfermedad;Continua
+
