@@ -47,3 +47,34 @@
 046;Copa Raíces. Tronco;Síntomas visuales de decaimiento en la copa del árbol. Pudrición en las raíces principales y en el cuello del tronco donde al raspar se observa la madera podrida;Enfermedad;Continua
 047;Copa. Raíces. Tronco;Síntomas visuales de decaimiento en la copa del árbol conocidos como tristeza. Al realizar catas en el suelo se observa podredumbre en las raíces absorbentes y en el cuello del tronco;Enfermedad;Continua
 048;Copa. Hojas. Ramas; Síntomas en copa con hojas de color café-grisáceo que no se caen y decaimiento parcial o total junto con rayados necróticos discontinuos sobre la madera al descortezar las ramas;Enfermedad;Continua
+049;Ramas. Brotes. Yemas;Deformaciones en ramas y presencia de ácaros bajo las brácteas de las yemas de la última brotación;Picador-Chupador;Marzo-Mayo y Septiembre-Noviembre
+050;Hojas;Presencia de hojas con manchas amarillas y visualizacion de formas vivas o puestas en la copa del arbol;Picador-Chupador;Julio-Septiembre
+051;Hojas;Presencia del acaro rojo en hojas adultas de la ultima brotacion tanto en el exterior como en el interior de la copa;Picador-chupador;Continua
+052;Hojas;Presencia del acaro oriental en hojas adultas de la ultima brotacion en el exterior de la copa;Picador-chupador;Continua
+053;Brotes;Presencia de pulgones en los brotes tiernos del arbol;Picador-chupador;Marzo-Mayo
+054;Brotes. Hojas;Presencia de pulgones oscuros en los brotes tiernos y hojas del arbol provocando enrollamiento y produccion de melaza y negrilla;Picador-chupador;Marzo-Mayo
+055;Frutos. Hojas. Ramas;Presencia de escamas circulares de color blanco sobre los frutos hojas y ramas que provocan decoloraciones y deprecian el fruto comercialmente sin producir melaza;Picador-chupador;Continua
+056;Frutos;Presencia de escudos sobre la superficie del fruto que provocan su depreciacion comercial;Picador-chupador;Julio-Agosto
+057;Frutos;Presencia de escudos con forma de coma o serpeta sobre la superficie de los frutos que provocan su depreciacion comercial;Picador-chupador;Julio-Agosto
+058;058;Hojas. Ramas. Frutos;Presencia de hembras con ovisacos algodonosos blancos en hojas y ramas produciendo abundante melaza y negrilla que debilita el arbol y deprecia los frutos;Picador-chupador;Continua
+059;Frutos;Presencia de masas algodonosas blancas en los frutos con produccion de melaza y negrilla;Picador-chupador;Julio-Septiembre
+060;Frutos;Presencia de masas algodonosas blancas en los frutos recien cuajados y en crecimiento provocando graves deformaciones en el fruto y produccion de melaza y negrilla;Picador-chupador;Marzo-Mayo
+061;Ramas. Hojas;Presencia de cochinillas con un caracteristico ovisaco blanco estriado sobre ramas y hojas produciendo melaza;Picador-chupador;Continua
+062;Brotes. Hojas;Presencia de colonias de mosca blanca con secreciones algodonosas en los brotes jovenes y hojas;Picador-chupador;Continua
+063;Hojas;Presencia de ninfas vivas de mosca blanca en hojas jovenes totalmente desarrolladas de la ultima brotacion;Picador-chupador;Mayo Julio Septiembre
+064;Hojas (Envés). Frutos;Presencia de infestacion por mosca blanca en el enves de las hojas produciendo negrilla sobre los frutos;Picador-chupador;Continua
+065;Hojas (Envés).Brotes Frutos;Presencia de insectos en el enves de las hojas y brotes provocando danos visibles en los frutos;Picador-chupador;Agosto-Septiembre
+066;Hojas (Envés).Brotes Frutos;Presencia de insectos en el enves de las hojas y brotes provocando danos visibles en los frutos;Picador-chupador;Agosto-Septiembre
+067;Hojas (Envés).Brotes Frutos;Presencia de insectos en el enves de las hojas y brotes provocando danos visibles en los frutos;Picador-chupador;Agosto-Septiembre
+068;Hojas (Envés).Brotes Frutos;Presencia de insectos en el enves de las hojas y brotes provocando danos visibles en los frutos;Picador-chupador;Agosto-Septiembre
+069;Hojas (Haz). Hojas (Enves). Brotes;Presencia de deformaciones y abultamientos en el haz de las hojas ninfas en el enves y puestas amarillas con adultos en los brotes tiernos;Picador-chupador;Continua
+070;Brotes. Hojas;Presencia de galerias sintomas o larvas vivas en los brotes tiernos;Minador;Continua
+071;Flores Frutos;Presencia de puestas en botones florales y danos en flores y pequenos frutos;Masticador;Continua
+072;Frutos;Presencia de picaduras en la piel con un caracteristico halo de decoloracion y pudricion interna de la pulpa por las larvas;Masticador;Continua
+073;Frutos (Zona del caliz);Presencia de larvas de trips en frutos pequenos especialmente en la zona del caliz y bajo este;Picador-chupador;Continua
+074;Frutos (Zona de contacto);Presencia de trips en las zonas donde los frutos entran en contacto entre ellos o con las hojas o ramas;Picador-chupador;Julio-Noviembre
+075;Hojas Frutos Ramas (Zona inferior);Presencia de caracoles o babosas y danos por mordeduras en las hojas y frutos de las zonas mas bajas del arbol;Masticador;Continua
+076;Frutos (Zona inferior);Presencia de aguado o podredumbre marron en los frutos provocando pudriciones;Enfermedad;Septiembre-Noviembre
+077;Tronco (Zona del cuello). Ramas principales;Presencia de podredumbre en el cuello del arbol y exudacion de goma o gomosis en el tronco y ramas principales asociada a periodos de encharcamiento;Hongo;Marzo-Mayo Septiembre-Noviembre
+078;Hojas (Jovenes). Frutos;Presencia de manchas marrones en las hojas jovenes y en los frutos asociadas a epocas de lluvia;Enfermedad;Marzo-Mayo Septiembre-Noviembre
+079;Madera. Frutos;Presencia de decaimiento y muerte de plantas injertadas sobre naranjo amargo asi como estrias o acanaladuras en la madera acompanadas de pobre produccion y menor calibre de los frutos;Enfermedad;Continua
