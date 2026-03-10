@@ -96,3 +96,27 @@
 095;Hojas (Superficie). Tallos;Presencia de sintomas visuales de la enfermedad asociados a temperaturas medias y presencia de humedad;Enfermedad;Marzo-Septiembre
 096;Hojas (Superficie). Tallos;Presencia de sintomas visuales de la enfermedad asociados a temperaturas medias y presencia de humedad;Enfermedad;Marzo-Septiembre
 097;Hojas (Superficie). Plantas;Presencia de plantas con sintomas de la enfermedad asociada a encharcamientos de agua y exceso de nitrogeno;Enfermedad;Marzo-Junio
+098;Hojas. Tallos;Detección de puestas y larvas en la planta junto con pérdida de masa foliar dejando las nervaduras;Masticador;Continua
+099;Tubérculos. Raíces. Tallos;Agujeros y galerías estrechas en los tubérculos;Masticador;Continua
+100;Hojas (haz y envés). Tubérculos;Orificios circulares (cribado) y síntomas sobre las hojas comenzando por los bordes de la parcela al inicio de la emergencia y luego por el centro;Masticador;Continua
+101;Tallos. Tubérculos  Raíces;Plantas con tallo dañado o seccionado a ras de suelo;Masticador;Continua
+102;;Hojas (mesófilo). Tallos. Tubérculos;Galerías minadoras transparentes en el follaje y perforaciones con restos de excrementos en los tubérculos;Minador;Continua
+103;Tubérculos;Perforaciones y galerías profundas exclusivas en los tubérculos con presencia de excrementos y podredumbre secundaria;Minador;Continua
+104;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
+105;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
+106;Raíces. Hojas;Rodales de plantas con crecimiento raquítico. amarilleo progresivo. marchitez y desarrollo deficiente del sistema radicular;Picador-chupador;Continua
+107;Raíces. Hojas;Rodales de plantas con crecimiento raquítico. amarilleo progresivo. marchitez y desarrollo deficiente del sistema radicular;Picador-chupador;Continua
+108;Tubérculos. Raíces;Deformaciones y protuberancias (nódulos o agallas) en la superficie de los tubérculos y en el sistema radicular visibles en el momento de la recolección;Picador-chupador;continua
+109;Hojas. Tallos. Tubérculos;Manchas aisladas en las hojas superiores y en los tallos junto con podredumbre en los tubérculos afectados;Enfermedad;Continua
+110;Brotes. Tallos (Base del cuello). Tuberculos;Presencia de sintomas visuales de la enfermedad en brotes tallos y tuberculos;Enfermedad;Continua
+111;Hojas Tuberculos;Presencia de sintomas visuales de la enfermedad en el cultivo asociada a alta humedad ambiental y altas temperaturas;Enfermedad;Continua
+112;Tuberculos;Presencia de infeccion en las patatas de siembra y en los tuberculos cosechados a traves de golpes y heridas;Enfermedad;Continua
+113;Ninguno;Ninguno;Enfermedad de evolución en el almacén. tratar la patata de siembra con fungicidas autorizados si se prevén daños. Se podrán utilizar los productos fitosanitarios autorizados en el Registro de Productos Fitosanitarios del Ministerio de Agricultura Alimentación y Medio Ambiente
+114;Hojas;Presencia de sintomas de marchitamiento en las hojas;Enfermedad;Continua
+115;Tuberculos;Presencia de sarna comun y deteccion visual de la enfermedad en los tuberculos;Enfermedad;Continua
+116;Tuberculos. Plantas (Vegetacion);Deteccion en laboratorio de bacterias presentes en tuberculos o en vegetacion siendo un organismo de cuarentena de declaracion obligatoria;Enfermedad;Continua
+117;Tuberculos. Plantas (Vegetacion);Deteccion en laboratorio de bacterias presentes en tuberculos o en vegetacion siendo un organismo de cuarentena de declaracion obligatoria;Enfermedad;Continua
+118;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
+119;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
+120;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
+121;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
