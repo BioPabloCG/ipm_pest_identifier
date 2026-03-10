@@ -40,15 +40,19 @@ df_filtered = df[df['crop'] == crop_selected]
 
 #Filter 2: Affected organ (Multiselect with clean options)
 organ_dictionary = {
+    "Hoja (General)": "hoja",
     "Hoja (Envés)": "envés",
     "Hoja (Haz)": "haz",
     "Ramas": "rama|brote",
     "Fruto": "fruto",
     "Tronco": "tronco|cuello|madera",
+    "Tallos": "tallo",
+    "Tubérculos": "tubérculo|tuberculo|patata",
     "Brote": "brote|tierno",
-    "Raíces": "raíz|raíc|radicular",
+    "Raíces": "raíz|raíc|raic|radicular",
     "Copa del árbol": "copa",
-    "Árbol completo": "general|planta entera|completo"
+    "Suelo": "suelo|tierra",
+    "Planta completa": "general|planta|completo"
 }
 
 organ_selected = st.sidebar.multiselect(
@@ -73,15 +77,17 @@ symptoms_dictionary = {
     "Manchas / Necrosis / Costras": "mancha|necrót|necrosis|costrosa|chancro",
     "Defoliación / Caída de hojas o frutos": "defoliación|caen|caída",
     "Decoloración / Amarilleamiento / Clorosis": "decoloración|amarill|bronceado|platead|cloróti|ceniciento",
-    "Marchitez / Decaimiento / Seca regresiva": "marchitez|debilitamiento|decaimiento|muerte|seco|seca|regresiva",
-    "Melaza / Negrilla (Polvo negro)": "melaza|negrilla|hollín",
+    "Marchitez / Decaimiento / Seca regresiva": "marchit|debilitamiento|decaimiento|muerte|seco|seca|regresiva", # "marchit" capta marchitez y marchitamiento
+    "Melaza / Negrilla / Secreciones": "melaza|negrilla|hollín|secreción|secrecion",
     "Cicatrices / Grietas / Deformaciones": "cicatrices|deform|raspaduras|corchoso|agrietadas|resquebrajarse",
     "Podredumbre / Pudrición": "podredumbre|pudrición",
-    "Perforaciones / Galerías / Roeduras": "galerías|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios",
+    "Perforaciones / Galerías / Roeduras (Planta)": "galería|galeria|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios",
     "Seda / Nidos / Telarañas": "seda|nido|telaraña",
     "Presencia de Hormigas": "hormiga|hormiguero",
-    "Masas algodonosas / Caparazones / Insectos": "algodono|caparazon|colonias|ninfas|adultos",
-    "Exudados (Líquidos oscuros en tronco/raíz)": "exudado"
+    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca", # Añadido larva, insecto, gusano y blanca
+    "Exudados (Líquidos oscuros en tronco/raíz)": "exudado",
+    "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura", # NUEVO: Para jabalíes, ratas topo, topillos, etc.
+    "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion" # NUEVO: Para hongos y virus genéricos
 }
 
 symptoms_selected = st.sidebar.selectbox("¿Cuál es el síntoma principal?", list(symptoms_dictionary.keys()))
@@ -155,4 +161,5 @@ st.sidebar.info(
 
 #Links to professional profiles
 st.sidebar.markdown("🌐 [Mi perfil de GitHub](https://github.com/BioPabloCG)")
+
 st.sidebar.markdown("💼 [Conecta en LinkedIn](https://www.linkedin.com/in/pablo-castillo-garcía-637a1816a/)")
