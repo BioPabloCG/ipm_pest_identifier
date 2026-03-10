@@ -102,8 +102,8 @@
 101;Tallos. Tubérculos  Raíces;Plantas con tallo dañado o seccionado a ras de suelo;Masticador;Continua
 102;Hojas (mesófilo). Tallos. Tubérculos;Galerías minadoras transparentes en el follaje y perforaciones con restos de excrementos en los tubérculos;Minador;Continua
 103;Tubérculos;Perforaciones y galerías profundas exclusivas en los tubérculos con presencia de excrementos y podredumbre secundaria;Minador;Continua
-104;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
-105;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
+104;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
+105;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
 106;Raíces. Hojas;Rodales de plantas con crecimiento raquítico. amarilleo progresivo. marchitez y desarrollo deficiente del sistema radicular;Picador-chupador;Continua
 107;Raíces. Hojas;Rodales de plantas con crecimiento raquítico. amarilleo progresivo. marchitez y desarrollo deficiente del sistema radicular;Picador-chupador;Continua
 108;Tubérculos. Raíces;Deformaciones y protuberancias (nódulos o agallas) en la superficie de los tubérculos y en el sistema radicular visibles en el momento de la recolección;Picador-chupador;continua
@@ -120,4 +120,5 @@
 119;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
 120;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
 121;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
+
 
