@@ -100,7 +100,7 @@
 099;Tubérculos. Raíces. Tallos;Agujeros y galerías estrechas en los tubérculos;Masticador;Continua
 100;Hojas (haz y envés). Tubérculos;Orificios circulares (cribado) y síntomas sobre las hojas comenzando por los bordes de la parcela al inicio de la emergencia y luego por el centro;Masticador;Continua
 101;Tallos. Tubérculos  Raíces;Plantas con tallo dañado o seccionado a ras de suelo;Masticador;Continua
-102;;Hojas (mesófilo). Tallos. Tubérculos;Galerías minadoras transparentes en el follaje y perforaciones con restos de excrementos en los tubérculos;Minador;Continua
+102;Hojas (mesófilo). Tallos. Tubérculos;Galerías minadoras transparentes en el follaje y perforaciones con restos de excrementos en los tubérculos;Minador;Continua
 103;Tubérculos;Perforaciones y galerías profundas exclusivas en los tubérculos con presencia de excrementos y podredumbre secundaria;Minador;Continua
 104;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
 105;;Hojas (envés). Tallos;Deformación. abarquillamiento y amarillamiento. presencia de melaza y síntomas de transmisión de virosis;Picador-chupador;Continua
@@ -120,3 +120,4 @@
 119;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
 120;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
 121;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
+
