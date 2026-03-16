@@ -93,9 +93,9 @@
 092;Suelo (Galerias);Presencia de toperas activas con tierra suelta y humeda asi como galerias en el terreno;Vertebrado;Continua
 093;Suelo (Galerias);Presencia de toperas activas con tierra suelta y humeda asi como galerias en el terreno;Vertebrado;Continua
 094;Suelo (Superficie);Presencia de huellas excrementos hozaduras banos camas y pelos en las vallas de separacion de fincas;Vertebrado;Continua
-095;Hojas (Superficie). Tallos;Presencia de sintomas visuales de la enfermedad asociados a temperaturas medias y presencia de humedad;Enfermedad;Marzo-Septiembre
-096;Hojas (Superficie). Tallos;Presencia de sintomas visuales de la enfermedad asociados a temperaturas medias y presencia de humedad;Enfermedad;Marzo-Septiembre
-097;Hojas (Superficie). Plantas;Presencia de plantas con sintomas de la enfermedad asociada a encharcamientos de agua y exceso de nitrogeno;Enfermedad;Marzo-Junio
+095;Hojas (Superficie). Tallos;Presencia de manchas y pustulas necroticas en la superficie vegetal provocando desecacion progresiva;Enfermedad;Marzo-Septiembre
+096;Hojas (Superficie). Tallos;Presencia de manchas y pustulas necroticas en la superficie vegetal provocando desecacion progresiva;Enfermedad;Marzo-Septiembre
+097;Hojas (Superficie). Plantas;Aparición de manchas necróticas alargadas en las hojas que provocan el secado y marchitez general de la planta;Enfermedad;Marzo-Junio
 098;Hojas. Tallos;Detección de puestas y larvas en la planta junto con pérdida de masa foliar dejando las nervaduras;Masticador;Continua
 099;Tubérculos. Raíces. Tallos;Agujeros y galerías estrechas en los tubérculos;Masticador;Continua
 100;Hojas (haz y envés). Tubérculos;Orificios circulares (cribado) y síntomas sobre las hojas comenzando por los bordes de la parcela al inicio de la emergencia y luego por el centro;Masticador;Continua
@@ -108,17 +108,18 @@
 107;Raíces. Hojas;Rodales de plantas con crecimiento raquítico. amarilleo progresivo. marchitez y desarrollo deficiente del sistema radicular;Picador-chupador;Continua
 108;Tubérculos. Raíces;Deformaciones y protuberancias (nódulos o agallas) en la superficie de los tubérculos y en el sistema radicular visibles en el momento de la recolección;Picador-chupador;continua
 109;Hojas. Tallos. Tubérculos;Manchas aisladas en las hojas superiores y en los tallos junto con podredumbre en los tubérculos afectados;Enfermedad;Continua
-110;Brotes. Tallos (Base del cuello). Tuberculos;Presencia de sintomas visuales de la enfermedad en brotes tallos y tuberculos;Enfermedad;Continua
-111;Hojas Tuberculos;Presencia de sintomas visuales de la enfermedad en el cultivo asociada a alta humedad ambiental y altas temperaturas;Enfermedad;Continua
-112;Tuberculos;Presencia de infeccion en las patatas de siembra y en los tuberculos cosechados a traves de golpes y heridas;Enfermedad;Continua
-113;Ninguno;Ninguno;Enfermedad de evolución en el almacén. tratar la patata de siembra con fungicidas autorizados si se prevén daños. Se podrán utilizar los productos fitosanitarios autorizados en el Registro de Productos Fitosanitarios del Ministerio de Agricultura Alimentación y Medio Ambiente
+110;Brotes. Tallos (Base del cuello). Tuberculos;Aparición de chancros necróticos en la base de los tallos y costras negras superficiales en los tubérculos;Enfermedad;Continua
+111;Hojas Tuberculos;Aparición de manchas necróticas concéntricas en las hojas provocando defoliación y lesiones hundidas oscuras en los tubérculos;Enfermedad;Continua
+112;Tuberculos;Tuberculos;Presencia de podredumbre seca arrugamiento y deshidratación en los tubérculos cosechados a través de heridas;Enfermedad;Continua
+113;Tuberculos;Aparicion de manchas plateadas o tejido corchoso en la piel de los tubérculos almacenados;Enfermedad;Continua
 114;Hojas;Presencia de sintomas de marchitamiento en las hojas;Enfermedad;Continua
 115;Tuberculos;Presencia de sarna comun y deteccion visual de la enfermedad en los tuberculos;Enfermedad;Continua
-116;Tuberculos. Plantas (Vegetacion);Deteccion en laboratorio de bacterias presentes en tuberculos o en vegetacion siendo un organismo de cuarentena de declaracion obligatoria;Enfermedad;Continua
-117;Tuberculos. Plantas (Vegetacion);Deteccion en laboratorio de bacterias presentes en tuberculos o en vegetacion siendo un organismo de cuarentena de declaracion obligatoria;Enfermedad;Continua
-118;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
-119;Plantas. Tallos;Deteccion visual de sintomas en plantas del campo;Enfermedad;Continua
-120;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
-121;Plantas. Hojas. Brotes Tuberculos;Deteccion visual de sintomas en plantas del campo o en laboratorio mediante ensayos usando muestras de hojas afectadas o brotes de tuberculos;Enfermedad;Continua
+116;Tuberculos. Plantas (Vegetacion);Marchitez repentina y severa de la planta con presencia de exudados bacterianos y podredumbre interna en los tubérculos;Enfermedad;Continua
+117;Tuberculos. Plantas (Vegetacion);Marchitez de la vegetación acompañada de podredumbre en forma de anillo en el interior de los tubérculos;Enfermedad;Continua
+118;Plantas. Tallos;Presencia de podredumbre negra y húmeda en la base del tallo provocando el amarilleamiento y marchitez de la planta;Enfermedad;Continua
+119;Plantas. Tallos;Presencia de podredumbre negra y húmeda en la base del tallo provocando el amarilleamiento y marchitez de la planta;Enfermedad;Continua
+120;Plantas. Hojas. Brotes Tuberculos;Enrollamiento hacia arriba de los bordes de las hojas acompañado de amarilleamiento clorosis y enanismo general de la planta;Enfermedad;Continua
+121;Plantas. Hojas. Brotes Tuberculos;Aparición de mosaicos arrugamiento de las hojas y necrosis en los nervios provocando debilidad y enanismo en la planta;Enfermedad;Continua
+
 
 
