@@ -162,4 +162,4 @@ st.sidebar.info(
 #Links to professional profiles
 st.sidebar.markdown("🌐 [Mi perfil de GitHub](https://github.com/BioPabloCG)")
 
-st.sidebar.markdown("💼 [Conecta en LinkedIn](https://www.linkedin.com/in/pablo-castillo-garcía-637a1816a/)")
+st.sidebar.markdown("💼 [Conecta en LinkedIn](https://www.linkedin.com/in/pablo-c-637a1816a/)")
