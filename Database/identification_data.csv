@@ -120,6 +120,24 @@
 119;Plantas. Tallos;Presencia de podredumbre negra y húmeda en la base del tallo provocando el amarilleamiento y marchitez de la planta;Enfermedad;Continua
 120;Plantas. Hojas. Brotes Tuberculos;Enrollamiento hacia arriba de los bordes de las hojas acompañado de amarilleamiento clorosis y enanismo general de la planta;Enfermedad;Continua
 121;Plantas. Hojas. Brotes Tuberculos;Aparición de mosaicos arrugamiento de las hojas y necrosis en los nervios provocando debilidad y enanismo en la planta;Enfermedad;Continua
-
-
-
+122;Ramas;Perforaciones y agujeros visibles en el fruto para la alimentación y puesta provocando su caída prematura;Masticador;Mayo-Junio
+123;Ramas;Presencia de galerias activas en las ramas y rotura de las mismas por la acción del viento;Masticador;Continua
+124;Ramas;Presencia de hojas fuertemente enrolladas o plegadas en forma de cigarro con evidentes roeduras y defoliación;Masticador;Febrero-Marzo
+125;Ramas;Presencia de hojas fuertemente enrolladas o plegadas en forma de cigarro con evidentes roeduras y defoliación;Masticador;Febrero-Marzo
+126;Hojas (Enves);Presencia de colonias en el enves de las hojas provocando amarilleamiento debilitamiento y secrecion de melaza;Picador-chupador;Continua
+127;Brotes. Frutos;Presencia de colonias en los brotes tiernos y frutos provocando debilitamiento deformacion y secrecion de melaza;Picador-chupador;Continua
+128;Ramas;Presencia de caparazones y larvas en las ramas produciendo secrecion de melaza y debilitamiento;Picador-chupador;Continua
+129;Yemas. Brotes;Presencia de abultamientos y deformaciones en las yemas atacadas impidiendo su correcto desarrollo;Picador-chupador;Enero-Febrero
+130;Hojas (Enves);Presencia de ácaros en el enves de las hojas provocando decoloración amarilleamiento y defoliación prematura;Picador-chupador;Continua
+131;Hojas (Enves);Presencia de ácaros en el enves de las hojas provocando decoloración amarilleamiento y defoliación prematura;Picador-chupador;Continua
+132;Hojas. Brotes;Presencia de ácaros en las hojas inferiores de los brotes provocando decoloración amarilleamiento defoliación y posibles telarañas;Picador-chupador;Continua
+133;Hojas. Brotes;Presencia de ácaros en las hojas inferiores de los brotes provocando decoloración amarilleamiento defoliación y posibles telarañas;Picador-chupador;Continua
+134;Frutos. Brotes;Presencia de picaduras en los frutos y brotes que provocan deformaciones manchas necróticas caída prematura y zonas corchosas en el interior de la avellana;Picador-chupador;Mayo-Junio
+135;Frutos. Brotes;Presencia de picaduras en los frutos y brotes que provocan deformaciones manchas necróticas caída prematura y zonas corchosas en el interior de la avellana;Picador-chupador;Septiembre-Octubre
+136;Tronco. Raíz Raíces;Presencia de larvas y perforaciones en la base del tronco y raíces provocando decaimiento marchitez y muerte del árbol;Masticador;Continua
+137;Tronco. Madera;Presencia de larvas y grandes galerías en la madera de la base del tronco provocando decaimiento marchitez y muerte del árbol;Masticador;Continua
+138;Ramas;Presencia de chancros y exudaciones gomosas en las ramas afectadas;Enfermedad;Continua
+139;Yemas;Presencia de yemas secas y necrosadas en las ramas que mueren sin llegar a desarrollarse;Enfermedad;Continua
+140;Raíces. Tronco (Cuello);Presencia de podredumbre en las raíces y en el cuello del tronco provocando un debilitamiento y decaimiento general del árbol;Enfermedad;Continua
+141;Raíces. Tronco (Cuello);Presencia de podredumbre en las raíces y en el cuello del tronco provocando un debilitamiento y decaimiento general del árbol;Enfermedad;Continua
+142;Hojas. Madera. Frutos;Presencia de manchas necróticas en hojas y frutos junto con lesiones en la madera que provocan marchitez y desecación progresiva;Enfermedad;Continua
