@@ -141,3 +141,38 @@
 140;Raíces. Tronco (Cuello);Presencia de podredumbre en las raíces y en el cuello del tronco provocando un debilitamiento y decaimiento general del árbol;Enfermedad;Continua
 141;Raíces. Tronco (Cuello);Presencia de podredumbre en las raíces y en el cuello del tronco provocando un debilitamiento y decaimiento general del árbol;Enfermedad;Continua
 142;Hojas. Madera. Frutos;Presencia de manchas necróticas en hojas y frutos junto con lesiones en la madera que provocan marchitez y desecación progresiva;Enfermedad;Continua
+143;Hojas. Ramas;Presencia de huevos en las ramas durante el invierno y ácaros en las hojas provocando punteaduras decoloración amarilleamiento y defoliación prematura;Picador-chupador;Continua
+144;Hojas. Frutos. Corimbos;Presencia de ácaros provocando bronceado decoloración manchas y deformaciones en hojas y frutos que deprecian gravemente la cosecha;Picador-chupador;Continua
+145;;Frutos;Presencia de orificios y galerías en el interior de los frutos con restos de excrementos provocando pudrición y caída prematura;Masticador;Marzo-Octubre
+146;Frutos. Brotes;Presencia de galerías y orificios en los frutos junto con marchitez y desecación de los brotes tiernos atacados por las larvas;Masticador;Continua
+147;Frutos. Hojas. Brotes. Corimbos;Presencia de hojas y brotes enrollados con hilos de seda junto con roeduras superficiales en la piel de los frutos;Masticador;Marzo-Octubre
+148;Frutos. Hojas. Brotes. Corimbos;Presencia de hojas y brotes enrollados con hilos de seda junto con roeduras superficiales en la piel de los frutos;Masticador;Marzo-Octubre
+149;Frutos. Hojas. Brotes. Corimbos;Presencia de hojas y brotes enrollados con hilos de seda junto con roeduras superficiales en la piel de los frutos;Masticador;Marzo-Octubre
+150;Tronco. Ramas;Presencia de orificios y galerías en la madera con expulsión de serrín y excrementos provocando debilitamiento y rotura de las ramas;Masticador;Continua
+151;Tronco. Ramas;Presencia de grandes galerías y orificios en la base del tronco y ramas principales con expulsión de serrín grueso y excrementos provocando el debilitamiento del árbol;Masticador;Continua
+152;Tronco. Ramas;Presencia de galerías bajo la corteza del tronco y ramas gruesas con expulsión de serrín rojizo y savia en zonas con heridas previas provocando debilitamiento;Masticador;Continua
+153;Corimbos. Brotes. Hojas. Frutos;Presencia de colonias que provocan un enrollamiento severo de las hojas deformación de los frutos detención del crecimiento y secreción de melaza;Picador-chupador;Continua
+154;Corimbos. Brotes. Hojas;Presencia de colonias que provocan un enrollamiento de las hojas detención del crecimiento de los brotes y abundante secreción de melaza;Picador-chupador;Continua
+155;Brotes. Hojas. Frutos;Presencia de colonias en los brotes tiernos provocando enrollamiento de las hojas detención del crecimiento y abundante secreción de melaza que ensucia los frutos;Picador-chupador;Continua
+156;Cuello. Tronco. Ramas. Brotes;Presencia de masas algodonosas blancas en la madera y brotes provocando la formación de tumores agallas y chancros que agrietan la corteza;Picador-chupador;Continua
+157;Frutos;Presencia de colonias en la fosa calicina de los frutos provocando manchas necróticas agrietamiento y deformaciones que deprecian la cosecha;Picador-chupador;Mayo-Octubre
+158;Ramas. Lamburdas. Corimbos. Brotes. Hojas. Frutos;Presencia de ninfas y adultos que debilitan el árbol y segregan abundante melaza donde se desarrolla la negrilla ennegreciendo hojas y manchando los frutos;Picador-chupador;Continua
+159;Ramas. Frutos;Presencia de costras o escudos grisáceos en la madera que secan las ramas junto con manchas o areolas rojizas en la piel de los frutos provocando su depreciación;Picador-chupador;Continua
+160;Frutos;Presencia de picaduras en la piel de los frutos y larvas en su interior que devoran la pulpa provocando pudrición blanda y caída prematura;Masticador;Continua
+161;Corimbos. Brotes. Hojas;Presencia de larvas que provocan el enrollamiento longitudinal de las hojas tiernas en forma de cigarro con engrosamiento de los tejidos y posterior necrosis y ennegrecimiento;Picador-chupador;Continua
+162;Corimbos. Frutos;Presencia de orificios de entrada y salida en los frutos cuajados con restos de excrementos oscuros y larvas en su interior devorando las semillas lo que provoca la caída prematura de los frutos;Masticador;Marzo-Mayo
+163;Brotes;Presencia de picaduras en espiral en los brotes tiernos provocando un marchitamiento ennegrecimiento y curvatura de la punta en forma de cayado con larvas barrenando el interior del tallo;Masticador;Marzo-Mayo
+164;Tronco. Ramas;Presencia de pequeños orificios circulares en la corteza con expulsión de serrín fino provocando el marchitamiento y decaimiento repentino de las ramas atacadas;Masticador;Continua
+165;Yemas. Brotes. Hojas;Presencia de un polvo blanquecino ceniciento recubriendo hojas brotes y yemas tiernas provocando deformación enrollamiento y paralización del crecimiento;Enfermedad;Continua
+166;Hojas. Frutos;Presencia de manchas aterciopeladas oscuras o verde oliva en las hojas y costras negras en los frutos provocando deformaciones agrietamientos y depreciación de la cosecha;Enfermedad;Marzo-Octubre
+167;Hojas. Frutos;Presencia de manchas aterciopeladas oscuras o verde oliva en las hojas y costras negras en los frutos provocando deformaciones agrietamientos y depreciación de la cosecha;Enfermedad;Marzo-Octubre
+168;Hojas. Brotes. Frutos;Presencia de manchas aterciopeladas oscuras en hojas y brotes con posterior formación de costras corchosas en la piel de los frutos provocando deformación y agrietamiento;Enfermedad;Octubre-Mayo
+169;Hojas;Presencia de manchas foliares blanquecinas o grisáceas con un borde oscuro que acaban necrosando el tejido y provocando la caída prematura de las hojas;Enfermedad;Mayo-Octubre
+170;Hojas. Frutos;Presencia de manchas circulares oscuras y necróticas en las hojas y lesiones negras hundidas en la piel de los frutos provocando pudrición que deprecia la cosecha;Enfermedad;Mayo-Octubre
+171;Hojas. Frutos;Presencia de manchas circulares oscuras y necróticas en las hojas y lesiones negras hundidas en la piel de los frutos provocando pudrición que deprecia la cosecha;Enfermedad;Mayo-Octubre
+172;Cuello. Raices. Tronco;Presencia de chancros oscuros y húmedos en la base del tronco y raíces que destruyen el sistema vascular provocando decaimiento general amarillamiento y muerte del árbol;Enfermedad;Continua
+173;Raices. Cuello. Hojas;Presencia de micelio blanco bajo la corteza del cuello y pudricion de raices que destruyen el sistema vascular provocando enrojecimiento amarillamiento decaimiento general y defoliacion prematura;Enfermedad;Continua
+174;Raices. Cuello. Hojas;Presencia de micelio blanco bajo la corteza del cuello y pudricion de raices que destruyen el sistema vascular provocando enrojecimiento amarillamiento decaimiento general y defoliacion prematura;Enfermedad;Continua
+175;Flores. Brotes. Hojas Ramas Frutos;Presencia de ennegrecimiento y necrosis fulminante en los tejidos vegetales con aspecto de haber sido quemados curvatura de brotes tiernos en forma de cayado y chancros en la madera;Enfermedad;Continua
+176;Corimbos. Flores. Frutos;Presencia de necrosis y ennegrecimiento en corimbos y flores de aspecto similar al fuego bacteriano junto con lesiones oscuras en los frutos especialmente tras periodos de heladas y alta humedad;Enfermedad;Marzo-Junio
+177;Cuello. Raíces;Presencia de tumores o agallas leñosas en el cuello y las raíces que bloquean la circulación de savia provocando un progresivo decaimiento general y debilitamiento del árbol;Enfermedad;Continua
