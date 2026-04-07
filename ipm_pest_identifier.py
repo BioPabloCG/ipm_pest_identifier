@@ -44,6 +44,7 @@ organ_dictionary = {
     "Hoja (Envés)": "envés",
     "Hoja (Haz)": "haz",
     "Ramas": "rama|brote",
+    "Órganos florales y Yemas": "flor|corimbo|yema|capullo",
     "Fruto": "fruto",
     "Tronco": "tronco|cuello|madera",
     "Tallos": "tallo",
@@ -74,20 +75,20 @@ if organ_selected:
 #Filter 3: Visual symptoms (Expanded dictionary with comprehensive keywords)
 symptoms_dictionary = {
     "Cualquier síntoma": "",
-    "Manchas / Necrosis / Costras": "mancha|necrót|necrosis|costrosa|chancro",
+    "Manchas / Necrosis / Costras": "mancha|necrót|necrosis|costrosa|chancro|sarna|quemad",
     "Defoliación / Caída de hojas o frutos": "defoliación|caen|caída",
     "Decoloración / Amarilleamiento / Clorosis": "decoloración|amarill|bronceado|platead|cloróti|ceniciento",
-    "Marchitez / Decaimiento / Seca regresiva": "marchit|debilitamiento|decaimiento|muerte|seco|seca|regresiva", # "marchit" capta marchitez y marchitamiento
-    "Melaza / Negrilla / Secreciones": "melaza|negrilla|hollín|secreción|secrecion",
-    "Cicatrices / Grietas / Deformaciones": "cicatrices|deform|raspaduras|corchoso|agrietadas|resquebrajarse",
+    "Marchitez / Decaimiento / Seca regresiva": "marchit|debilitamiento|decaimiento|muerte|seco|seca|regresiva", 
+    "Melaza / Negrilla / Secreciones / Micelio": "melaza|negrilla|hollín|secreción|secrecion|micelio|polvo|ceniza",
+    "Cicatrices / Grietas / Deformaciones / Tumores": "cicatrices|deform|raspaduras|corchoso|agrietadas|resquebrajarse|agrieta|enrollamiento|agalla|tumor|nódulo|nodulo",
     "Podredumbre / Pudrición": "podredumbre|pudrición",
-    "Perforaciones / Galerías / Roeduras (Planta)": "galería|galeria|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios",
+    "Perforaciones / Galerías / Roeduras (Planta)": "galería|galeria|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios|seccionado|dañad",
     "Seda / Nidos / Telarañas": "seda|nido|telaraña",
     "Presencia de Hormigas": "hormiga|hormiguero",
-    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca", # Añadido larva, insecto, gusano y blanca
+    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca|ácaro|acaro|pulgón|pulgon|cochinilla|piojo|trip|escudo|serpeta", 
     "Exudados (Líquidos oscuros en tronco/raíz)": "exudado",
-    "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura", # NUEVO: Para jabalíes, ratas topo, topillos, etc.
-    "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion" # NUEVO: Para hongos y virus genéricos
+    "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura", 
+    "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion|enfermedad"
 }
 
 symptoms_selected = st.sidebar.selectbox("¿Cuál es el síntoma principal?", list(symptoms_dictionary.keys()))
