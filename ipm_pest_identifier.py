@@ -52,7 +52,7 @@ organ_dictionary = {
     "Brote": "brote|tierno",
     "Raíces": "raíz|raíc|raic|radicular",
     "Copa del árbol": "copa",
-    "Suelo": "suelo|tierra",
+    "Suelo": "suelo|tierra|compost|sustrato",
     "Planta completa": "general|planta|completo"
 }
 
@@ -75,17 +75,17 @@ if organ_selected:
 #Filter 3: Visual symptoms (Expanded dictionary with comprehensive keywords)
 symptoms_dictionary = {
     "Cualquier síntoma": "",
-    "Manchas / Necrosis / Costras": "mancha|necrót|necrosis|necrosad|costrosa|chancro|cancro|sarna|quemad", 
+    "Manchas / Necrosis / Costras": "mancha|moteado|necrót|necrosis|necrosad|costrosa|chancro|cancro|sarna|quemad", 
     "Defoliación / Caída de hojas o frutos": "defoliación|caen|caída|caida", 
     "Decoloración / Amarilleamiento / Clorosis": "decoloración|amarill|clareamient|bronceado|platead|cloróti|ceniciento", 
-    "Marchitez / Decaimiento / Seca regresiva": "marchit|debilitamiento|decaimiento|muerte|seco|seca|regresiva|retraso", 
-    "Melaza / Negrilla / Secreciones / Micelio": "melaza|negrilla|hollín|secreción|secrecion|micelio|polvo|ceniza",
+    "Marchitez / Decaimiento / Seca regresiva": "marchit|debilitamiento|decaimiento|muerte|seco|seca|regresiva|retraso|momifica", 
+    "Melaza / Negrilla / Secreciones / Micelio": "melaza|negrilla|hollín|secreción|secrecion|micelio|polvo|ceniza|moho|yeso|mole",
     "Cicatrices / Grietas / Deformaciones / Tumores": "cicatrices|deform|raspaduras|corchoso|agrietadas|resquebrajarse|agrieta|enrollamiento|agalla|tumor|nódulo|nodulo|elefantiasis", 
     "Podredumbre / Pudrición": "podredumbre|pudrición",
     "Perforaciones / Galerías / Roeduras (Planta)": "galería|galeria|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios|seccionado|dañad",
     "Seda / Nidos / Telarañas": "seda|nido|telaraña",
     "Presencia de Hormigas": "hormiga|hormiguero",
-    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca|ácaro|acaro|pulgón|pulgon|cochinilla|piojo|trip|escudo|serpeta", 
+    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca|ácaro|acaro|pulgón|pulgon|cochinilla|piojo|trip|escudo|serpeta|mosca|mosquito|nematodo", 
     "Exudados (Líquidos oscuros en tronco/raíz)": "exudado",
     "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura", 
     "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion|enfermedad"
