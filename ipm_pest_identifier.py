@@ -45,7 +45,7 @@ organ_dictionary = {
     "Hoja (Haz)": "haz",
     "Ramas": "rama|brote",
     "Órganos florales y Yemas": "flor|corimbo|yema|capullo|botón|boton",
-    "Fruto": "fruto",
+    "Fruto": "fruto|espiga|grano",
     "Tronco": "tronco|cuello|madera",
     "Tallos": "tallo",
     "Tubérculos": "tubérculo|tuberculo|patata",
@@ -85,10 +85,10 @@ symptoms_dictionary = {
     "Perforaciones / Galerías / Roeduras (Planta)": "galería|galeria|perforaciones|agujero|serrín|roeduras|punteaduras|incisiones|orificios|seccionado|dañad",
     "Seda / Nidos / Telarañas": "seda|nido|telaraña",
     "Presencia de Hormigas": "hormiga|hormiguero",
-    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca|ácaro|acaro|pulgón|pulgon|cochinilla|piojo|trip|escudo|serpeta|mosca|mosquito|nematodo", 
+    "Insectos / Larvas / Masas algodonosas": "algodono|caparazon|colonias|ninfa|adulto|larva|insecto|gusano|oruga|blanca|ácaro|acaro|pulgón|pulgon|cochinilla|piojo|trip|escudo|serpeta|mosca|mosquito|nematodo|pupa|puesta|caracol|cangrejo", 
     "Exudados (Líquidos oscuros en tronco/raíz)": "exudado",
-    "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura", 
-    "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion|enfermedad"
+    "Indicios de Vertebrados en el suelo": "topera|huella|excremento|hozadura|bano|baño|cama|madriguera|hura|ave|pájaro|pajaro", 
+    "Síntomas generales de enfermedad": "síntoma|sintoma|daño|dano|infección|infeccion|enfermedad|olor"
 }
 
 symptoms_selected = st.sidebar.selectbox("¿Cuál es el síntoma principal?", list(symptoms_dictionary.keys()))
