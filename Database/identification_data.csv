@@ -209,3 +209,20 @@
 208;Fruto;Presencia de necrosis interna en el pie de los cuerpos fructiferos o champiñones afectados una vez recolectados;Enfermedad;Continua
 209;Fruto;Presencia de sintomas de momificacion en los cuerpos fructiferos o champiñones afectados una vez recolectados;Enfermedad;Continua
 210;General;Presencia de sintomas generales de virosis muy amplios y de facil confusion que requieren analisis en laboratorio;Enfermedad;Continua
+211;General;Presencia de insectos capturados mediante manga entomologica o estaciones de control;Picador-chupador;Junio Julio Agosto Septiembre Octubre
+212;General;Presencia de insectos capturados mediante manga entomologica o estaciones de control;Picador-chupador;Junio Julio Agosto Septiembre Octubre
+213;Raíces;Presencia de larvas y raices afectadas detectadas mediante cilindros cores o estaciones de control;Masticador;Mayo Junio Julio
+214;Raíces;Presencia de larvas y raices afectadas detectadas mediante cilindros cores o estaciones de control;Masticador;Mayo Junio Julio
+215;Raíces;Presencia de larvas y raices afectadas detectadas mediante cilindros cores o estaciones de control;Masticador;Mayo Junio Julio
+216;Raíces;Presencia de larvas o pupas y raices afectadas detectadas mediante estaciones de control;Masticador;Mayo Junio Julio
+217;General;Presencia de pulgones y plantas afectadas detectados en los muestreos;Picador-chupador;Julio Agosto Septiembre
+218;General;Presencia de pulgones y plantas afectadas detectados en los muestreos;Picador-chupador;Julio Agosto Septiembre
+219;Hoja;Presencia de larvas u orugas defoliadoras y plantas afectadas detectadas mediante controles visuales;Masticador;Julio Agosto Septiembre
+220;Hoja;Presencia de larvas u orugas defoliadoras y plantas afectadas detectadas mediante controles visuales;Masticador;Julio Agosto Septiembre
+221;Tallos;Presencia de larvas y plantas afectadas detectadas mediante controles visuales y capturas en trampas de feromonas o luz;Masticador;Julio Agosto Septiembre
+222;General;Presencia de individuos puestas y plantas dañadas detectadas mediante controles visuales y postes centinelas;Masticador;Mayo Junio Julio Agosto Septiembre Octubre
+223;Suelo;Presencia de individuos y daño visual en infraestructuras muros y parcelas;Masticador;Mayo Junio Julio Agosto Septiembre Octubre
+224;General;Presencia de aves y daño visual en el cultivo;Masticador;Mayo Junio Julio Agosto Septiembre Octubre
+225;Hoja;Presencia de manchas en la hoja espigas y grano detectadas mediante controles visuales;Enfermedad;Julio Agosto Septiembre
+226;Hoja;Presencia de manchas en la hoja espigas y grano detectadas mediante controles visuales;Enfermedad;Julio Agosto Septiembre
+227;General;Presencia de pies secos estancamiento o retraso del crecimiento y olor caracteristico al remover el agua;Enfermedad;Mayo Junio Julio Agosto
