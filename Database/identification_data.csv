@@ -226,3 +226,45 @@
 225;Hoja;Presencia de manchas en la hoja espigas y grano detectadas mediante controles visuales;Enfermedad;Julio Agosto Septiembre
 226;Hoja;Presencia de manchas en la hoja espigas y grano detectadas mediante controles visuales;Enfermedad;Julio Agosto Septiembre
 227;General;Presencia de pies secos estancamiento o retraso del crecimiento y olor caracteristico al remover el agua;Enfermedad;Mayo Junio Julio Agosto
+228;;Hoja;Presencia de acaros. telarañas y clorosis o amarilleamiento en las hojas de los primeros focos;Picador-chupador;Continua
+229;;Hoja;Presencia de acaros. telarañas y clorosis o amarilleamiento en las hojas de los primeros focos;Picador-chupador;Continua
+230;;Hoja;Presencia de acaros. telarañas y clorosis o amarilleamiento en las hojas de los primeros focos;Picador-chupador;Continua
+231;;Hoja;Presencia de acaros. telarañas y clorosis o amarilleamiento en las hojas de los primeros focos;Picador-chupador;Continua
+232;Hoja;Presencia de adultos larvas galerias sinuosas en el interior de las hojas y punteaduras blancas causadas por picaduras de alimentacion;Masticador;Continua
+233;Hoja;Presencia de colonias de pulgones abundante melaza negrilla y enrollamiento o deformacion en las hojas;Picador-chupador;Continua
+234;Hoja;Presencia de colonias de pulgones abundante melaza negrilla y enrollamiento o deformacion en las hojas;Picador-chupador;Continua
+235;Hoja;Presencia de colonias de pulgones abundante melaza negrilla y enrollamiento o deformacion en las hojas;Picador-chupador;Continua
+236;Hoja;Presencia de colonias de pulgones abundante melaza negrilla y enrollamiento o deformacion en las hojas;Picador-chupador;Continua
+237;Hoja;Presencia de colonias de pulgones abundante melaza negrilla y enrollamiento o deformacion en las hojas;Picador-chupador;Continua
+238;Hoja;Presencia de adultos y larvas de mosca blanca abundante melaza negrilla y clorosis o amarilleamiento en el enves de las hojas;Picador-chupador;Continua
+239;Hoja;Presencia de adultos y larvas de mosca blanca abundante melaza negrilla y clorosis o amarilleamiento en el enves de las hojas;Picador-chupador;Continua
+240;Hoja;Presencia de larvas u orugas y defoliacion con perforaciones o agujeros en las hojas;Masticador;Continua
+241;Hoja;Presencia de larvas u orugas y defoliacion con perforaciones o agujeros en las hojas;Masticador;Continua
+242;Fruto;Presencia de larvas u orugas perforaciones y agujeros circulares en los frutos y defoliacion en las hojas;Masticador;Continua
+243;Hoja;Presencia de larvas u orugas enrolladas cerca del suelo roeduras defoliacion y agujeros en las hojas;Masticador;Continua
+244;Hoja;Presencia de larvas u orugas enrolladas cerca del suelo roeduras defoliacion y agujeros en las hojas;Masticador;Continua
+245;Tallos;Presencia de larvas o gusanos grises en el suelo tallos seccionados por la base y marchitez o decaimiento de las plantulas;Masticador;Continua
+246;Órganos florales;Presencia de adultos y ninfas de trips manchas plateadas o bronceado deformaciones cicatrices y punteaduras oscuras en flores y hojas;Picador-chupador;Continua
+247;Raíces;Presencia de nematodos agallas o nodulos en las raices marchitez decaimiento retraso del crecimiento y amarilleamiento en la parte aerea;Picador-chupador;Continua
+248;Raíces;Presencia de nematodos agallas o nodulos en las raices marchitez decaimiento retraso del crecimiento y amarilleamiento en la parte aerea;Picador-chupador;Continua
+249;Raíces;Presencia de nematodos agallas o nodulos en las raices marchitez decaimiento retraso del crecimiento y amarilleamiento en la parte aerea;Picador-chupador;Continua
+250;General;Presencia de marchitez decaimiento o seca regresiva amarilleamiento foliar y necrosis vascular visible al cortar el tallo;Enfermedad;Continua
+251;Tallos;Presencia de podredumbre y chancro en el cuello o base del tallo marchitez decaimiento amarilleamiento y posible presencia de micelio;Enfermedad;Continua
+252;Hoja;Presencia de manchas necroticas concentricas amarilleamiento defoliacion en hojas y posible podredumbre en frutos;Enfermedad;Continua
+253;General;Presencia de podredumbre blanda y moho o micelio gris en hojas flores frutos y tallos con necrosis y marchitez;Enfermedad;Continua
+254;Hoja;Presencia de manchas blancas con polvo ceniza o micelio en las hojas amarilleamiento y necrosis;Enfermedad;Continua
+255;Hoja;Presencia de manchas blancas con polvo ceniza o micelio en las hojas amarilleamiento y necrosis;Enfermedad;Continua
+256;Hoja;Presencia de manchas angulares con amarilleamiento en el haz necrosis defoliacion y moho o micelio oscuro en el enves de las hojas;Enfermedad;Continua
+257;General;Presencia de podredumbre acuosa y denso micelio o moho blanco con formacion de nodulos negros provocando marchitez y decaimiento;Enfermedad;Continua
+258;General;Presencia de podredumbre blanda y acuosa con fuerte mal olor en frutos y tallos provocando marchitez y decaimiento general;Enfermedad;Continua
+259;Hoja;Presencia de manchas angulares acuosas delimitadas por los nervios con amarilleamiento necrosis agujeros por caida de tejido y exudado o secreciones bacterianas;Enfermedad;Continua
+260;Hoja;Presencia de intenso amarilleamiento o clorosis moteado y mosaico en las hojas mas viejas que se vuelven gruesas y quebradizas transmitido por pulgones;Enfermedad;Continua
+261;General;Presencia de amarilleamiento clorosis mosaico y deformacion en hojas con abultamientos en frutos provocando enanismo o retraso del crecimiento transmitido por pulgones;Enfermedad;Continua
+262;General;Presencia de mosaico amarilleamiento clorosis y deformacion severa en hojas y frutos transmitido por pulgones;Enfermedad;Continua
+263;General;Presencia de intenso amarilleamiento clorosis mosaico y deformacion severa en hojas con abultamientos en frutos provocando enanismo transmitido por pulgones;Enfermedad;Continua
+264;General;Presencia de amarilleamiento o clorosis en los nervios de las hojas mosaico en frutos y enanismo o retraso del crecimiento transmitido por mosca blanca;Enfermedad;Continua
+265;General;Presencia de intenso amarilleamiento o clorosis intervenal y moteado en las hojas mas viejas con enanismo o retraso del crecimiento transmitido por mosca blanca;Enfermedad;Continua
+266;General;Presencia de severo rizado deformacion amarilleamiento clorosis y mosaico en las hojas con fuerte retraso del crecimiento o enanismo transmitido por mosca blanca;Enfermedad;Continua
+267;General;Presencia de manchas con necrosis y cribado o agujeros en hojas lesiones en tallos marchitez y decaimiento general transmitido por hongo de suelo;Enfermedad;Continua
+268;General;Presencia de amarilleamiento clorosis mosaico y jaspeado verde en hojas con deformacion y degradacion interna de los frutos transmitido por contacto y herramientas;Enfermedad;Continua
+269;General;Presencia de chancro y necrosis con exudado gomoso en los tallos manchas con amarilleamiento en hojas podredumbre en frutos y marchitez;Enfermedad;Continua
