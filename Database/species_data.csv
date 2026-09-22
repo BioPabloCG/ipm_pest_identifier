@@ -226,3 +226,45 @@
 225;Arroz;Pyricularia grisea;Piricularia
 226;Arroz;Bipolaris oryzae spp.;helmintosporiosis
 227;Arroz;Exceso de sulfuro de hidrógeno y otras fisiopatías;Akiochi
+228;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Tetranychus urticae;Araña roja
+229;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Tetranychus turkestani;Araña roja
+230;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Tetranychus evansi;Araña roja
+231;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Tetranychus ludeni;Araña roja
+232;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Liriomyza sp.;Minadores de hoja
+233;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Aphis gossypii;Pulgón
+234;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Aphis craccivora;Pulgón
+235;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Myzus persicae;Pulgón
+236;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Aulacorthum solani;Pulgón
+237;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Macrosiphum euphorbiae;Pulgón
+238;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Bemisia tabaci;Mosca blanca
+239;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Trialeurodes vaporariorum;Mosca blanca
+240;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Chrysodeixis chalcites;Plúsidos
+241;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Autographa gamma;Plúsidos
+242;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Helicoverpa armigera;Heliothis
+243;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Spodoptera exigua;Rosquillas o Gardamas
+244;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Spodoptera littoralis;Rosquillas o Gardamas
+245;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Agrotis spp.;Gusanos grises
+246;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Frankliniella occidentalis;Trips occidental de las Flores
+247;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Meloidogyne incognita;Nematodos
+248;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Meloidogyne javanica;Nematodos
+249;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Meloidogyne arenaria;Nematodos
+250;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Fusarium oxysporum;Fusariosis vascular
+251;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Fusarium solani;Fusariosis de la base del tallo del calabacín
+252;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Alternaria cucumerina;Alternaria de las cucurbitáceas
+253;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Botrytis cinerea;Podredumbre gris
+254;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Podosphaera fusca;Oídio de las cucurbitáceas
+255;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Golovinomyces cichoracearum;Oídio de las cucurbitáceas
+256;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Pseudoperonospora cubensis;Milidu de las cucurbitáceas
+257;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Sclerotinia sclerotiorum;Podredumbre blanca
+258;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Pectobacterium carotovorum subsp. carotovorum;Podredumbre blanca
+259;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Pseudomonas syringae;Mancha angular de las cucurbitáceas
+260;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Cucurbit Aphid-borne Yellows Virus[CABYV];Virus del amarilleamiento de las cucurbitáceas
+261;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Cucumber Mosaic Virus[CMV];Virus del mosaico del Pepino
+262;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Watermelon Mosaic Virus 2 [WMV-2];Virus del mosaico de la sandía 2
+263;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Zucchini Yellow Mosaic Virus [ZYMV];Virus del mosaico amarillo del calabacín
+264;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Cucumber Vein Yellowing Virus [CVYV];Virus de las venas amarillas del pepino
+265;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Cucurbit Yellow Stunting Disorder Virus [CYSDV];Virus del enanismo amarillo del pepino
+266;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Tomato leaf curl New Delhi Virus [ToLCNDV];Virus del rizado amarillo del tomate de Nueva Delhi
+267;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Melon Necrotic Spot Virus [MNSV];Virus de las manchas necróticas o del cribado del melón
+268;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Cucumber Green Mottle Mosaic Virus [CGMMV];Virus del mosaico verde jaspeado del pepino
+269;Cucurbitáceas (Calabacín. Calabaza. Melón. Pepino y Sandía);Didymella bryoniae;Chancro gomoso del tallo del calabacín
